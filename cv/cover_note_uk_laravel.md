@@ -1,16 +1,14 @@
-# Cover note (email body)
+# Application email (short)
 
-Subject: Application — Laravel Developer (Remote UK, Part-time)
+**Subject:** Laravel Developer — production SaaS, PostgreSQL, Laravel Cloud
 
 Hi,
 
-I'm a Laravel developer with 2+ years shipping production SaaS and APIs—most recently owning backend work on a multi-tenant commercial platform, including an API-first migration, PostgreSQL/MySQL data models, third-party integrations, and deployments on Laravel Cloud.
+I'm applying for the part-time Laravel Developer role. I've spent 2+ years shipping commercial Laravel products end-to-end—most recently a multi-tenant SaaS with REST APIs, PostgreSQL/MySQL, third-party integrations, and production deploys on Laravel Cloud.
 
-I'm comfortable building polished user-facing Laravel apps end-to-end and pairing seriously with AI tooling (Claude, Cursor) to move faster while keeping ownership of architecture, reviews and quality—not vibe coding.
+I build polished user-facing apps and own features from UI through backend. I use Claude and Cursor every day as an experienced engineer with an agent—not as a vibe coder—so I ship faster without losing judgement on architecture or quality.
 
-The climate-tech products you're building (biomass trading, feedstock management, DWTS) and the chance to work directly with your CTO on real customer software are exactly the kind of focused, high-ownership work I want. Happy to discuss part-time or contract availability.
+CV attached. Happy to jump on a call about the biomass, feedstock, or DWTS work.
 
-Thanks,  
 Muhammad Hyder Ali  
-+92 313 6590599 | hyderali11112@gmail.com  
-linkedin.com/in/muhammadhyderali
++92 313 6590599 | hyderali11112@gmail.com
